@@ -1,4 +1,3 @@
 # CPP-Based-Reminder-System
-
-- Revised PPT & Flowchart.
-- Source Code.
+By Group 2
+Faraz Satria Nugraha, Rasendriya Deron Hafizh Surono, Nadhifa Azka Sherin.
